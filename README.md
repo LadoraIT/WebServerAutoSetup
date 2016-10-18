@@ -1,6 +1,6 @@
-# Ubuntu ServConf
-Ubuntu ServConf is a web server setup tool for ubuntu server, you can automate web server installation without touching the configuration files. There are 3 type of web server you can choose to install Apache2, Nginx, and Lighttpd.
-This tool will help you to install a common web server for a website including installing FTP server, Database server, and PHP.
+# Ubuntu Server Configurator Installer
+Ubuntu Server Configurator Installer is a web server setup tool for ubuntu linux server, you can automate web server installation without touching the configuration files. There are 3 type of web server you can choose to install Apache2, Nginx, or Lighttpd.
+This tool will help you installing a common web server for a website including FTP server, Database server, and PHP.
 This setup tool will help those PHP programmers who need a development environment / website environment who don't want to take their time learning how to setup their OSes. On windows there is a XAMPP or WAMP, but in Linux you have to do it manually by hand to setup PHP environment.
 
 # Installation
