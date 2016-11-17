@@ -1,7 +1,0 @@
-[Repository]
-Original rpm files from https://dl.fedoraproject.org/pub/epel/5/i386/
-Use this file at your own risk, these files is used to get only
-required files without the need to add new repolist to yum
-
-To check your list of yum repo use "yum repolist"
-or check yum config dir /etc/yum.repos.d
